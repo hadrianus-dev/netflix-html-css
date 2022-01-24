@@ -2,8 +2,8 @@
 Clonando o Netflix - este é o começo de uma trilha que esperamos evoluir posteriormente com React Js, e até mesmo React Native.
 
 ### INFOLINE ###
-AUTHOR: David Hadrianus
-EMAIL: jobs.hadrianus@gmail.com
+AUTHOR: David Hadrianus |
+EMAIL: jobs.hadrianus@gmail.com |
 PHONE NUMBER: +244 935 080 706
 
 
